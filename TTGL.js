@@ -1,0 +1,1 @@
+console.log('Tenggen toppa gurren lagan');
