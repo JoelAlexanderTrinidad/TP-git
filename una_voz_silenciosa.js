@@ -1,0 +1,1 @@
+console.log("cuenta la historia de un chico que le hace bullyg a una sorda en secundaria y de como se re encontrarian tratando de cambiar su pasado");
